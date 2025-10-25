@@ -1,3 +1,6 @@
+# Version used 
+Node v16.20.2 and npm v8.19.4 was used for this project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
