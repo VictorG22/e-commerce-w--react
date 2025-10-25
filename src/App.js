@@ -1,5 +1,6 @@
 import Landing from './components/Landing';
 import Nav from './components/Nav';
+import Highlights from './components/Highlights';
 import './index.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className='App'>
     <Nav />
     <Landing />
+    <Highlights />
     </div>
   );
 }
